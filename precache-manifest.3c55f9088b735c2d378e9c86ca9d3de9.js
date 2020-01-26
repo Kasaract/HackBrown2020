@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9305a5c96f72a365e2af3a796ee84398",
+    "revision": "204339119f2385f71cddc48664e0b3fe",
     "url": "/HackBrown2020/index.html"
   },
   {
-    "revision": "7c202a491344b55273a9",
+    "revision": "b22f1aa1dff61920e892",
     "url": "/HackBrown2020/static/css/main.55c853ec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HackBrown2020/static/js/2.c81297ac.chunk.js.LICENSE"
   },
   {
-    "revision": "7c202a491344b55273a9",
-    "url": "/HackBrown2020/static/js/main.24011ff6.chunk.js"
+    "revision": "b22f1aa1dff61920e892",
+    "url": "/HackBrown2020/static/js/main.299f2075.chunk.js"
   },
   {
     "revision": "29463d9b54ddc11caf32",
