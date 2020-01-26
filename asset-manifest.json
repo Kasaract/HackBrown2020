@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/deploy-matchr-proto/static/css/main.55c853ec.chunk.css",
-    "main.js": "/deploy-matchr-proto/static/js/main.dc41ad72.chunk.js",
-    "main.js.map": "/deploy-matchr-proto/static/js/main.dc41ad72.chunk.js.map",
-    "runtime-main.js": "/deploy-matchr-proto/static/js/runtime-main.2f0130a3.js",
-    "runtime-main.js.map": "/deploy-matchr-proto/static/js/runtime-main.2f0130a3.js.map",
-    "static/js/2.da3bdaa3.chunk.js": "/deploy-matchr-proto/static/js/2.da3bdaa3.chunk.js",
-    "static/js/2.da3bdaa3.chunk.js.map": "/deploy-matchr-proto/static/js/2.da3bdaa3.chunk.js.map",
-    "index.html": "/deploy-matchr-proto/index.html",
-    "precache-manifest.b3a98f39572e72f1e3de3b346a521492.js": "/deploy-matchr-proto/precache-manifest.b3a98f39572e72f1e3de3b346a521492.js",
-    "service-worker.js": "/deploy-matchr-proto/service-worker.js",
-    "static/css/main.55c853ec.chunk.css.map": "/deploy-matchr-proto/static/css/main.55c853ec.chunk.css.map",
-    "static/js/2.da3bdaa3.chunk.js.LICENSE": "/deploy-matchr-proto/static/js/2.da3bdaa3.chunk.js.LICENSE",
-    "static/media/headshot.jpg": "/deploy-matchr-proto/static/media/headshot.62c92389.jpg",
-    "static/media/spotify.svg": "/deploy-matchr-proto/static/media/spotify.ce49a946.svg"
+    "main.css": "/HackBorwn2020/static/css/main.55c853ec.chunk.css",
+    "main.js": "/HackBorwn2020/static/js/main.dc41ad72.chunk.js",
+    "main.js.map": "/HackBorwn2020/static/js/main.dc41ad72.chunk.js.map",
+    "runtime-main.js": "/HackBorwn2020/static/js/runtime-main.891a2f11.js",
+    "runtime-main.js.map": "/HackBorwn2020/static/js/runtime-main.891a2f11.js.map",
+    "static/js/2.8534cb1e.chunk.js": "/HackBorwn2020/static/js/2.8534cb1e.chunk.js",
+    "static/js/2.8534cb1e.chunk.js.map": "/HackBorwn2020/static/js/2.8534cb1e.chunk.js.map",
+    "index.html": "/HackBorwn2020/index.html",
+    "precache-manifest.3bf731f22e546c9c7fb6621a728cd957.js": "/HackBorwn2020/precache-manifest.3bf731f22e546c9c7fb6621a728cd957.js",
+    "service-worker.js": "/HackBorwn2020/service-worker.js",
+    "static/css/main.55c853ec.chunk.css.map": "/HackBorwn2020/static/css/main.55c853ec.chunk.css.map",
+    "static/js/2.8534cb1e.chunk.js.LICENSE": "/HackBorwn2020/static/js/2.8534cb1e.chunk.js.LICENSE",
+    "static/media/headshot.jpg": "/HackBorwn2020/static/media/headshot.62c92389.jpg",
+    "static/media/spotify.svg": "/HackBorwn2020/static/media/spotify.ce49a946.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f0130a3.js",
-    "static/js/2.da3bdaa3.chunk.js",
+    "static/js/runtime-main.891a2f11.js",
+    "static/js/2.8534cb1e.chunk.js",
     "static/css/main.55c853ec.chunk.css",
     "static/js/main.dc41ad72.chunk.js"
   ]
