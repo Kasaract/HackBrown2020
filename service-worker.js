@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HackBrown2020/precache-manifest.4e9c362a849b4c6b94f61e31805c66c2.js"
+  "/HackBrown2020/precache-manifest.67fde04b105fb9b9242ae059fe56c452.js"
 );
 
 self.addEventListener('message', (event) => {
