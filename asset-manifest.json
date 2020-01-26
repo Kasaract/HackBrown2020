@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HackBrown2020/static/css/main.55c853ec.chunk.css",
-    "main.js": "/HackBrown2020/static/js/main.e5099431.chunk.js",
-    "main.js.map": "/HackBrown2020/static/js/main.e5099431.chunk.js.map",
+    "main.js": "/HackBrown2020/static/js/main.dad549c8.chunk.js",
+    "main.js.map": "/HackBrown2020/static/js/main.dad549c8.chunk.js.map",
     "runtime-main.js": "/HackBrown2020/static/js/runtime-main.7ac36d18.js",
     "runtime-main.js.map": "/HackBrown2020/static/js/runtime-main.7ac36d18.js.map",
     "static/js/2.c81297ac.chunk.js": "/HackBrown2020/static/js/2.c81297ac.chunk.js",
     "static/js/2.c81297ac.chunk.js.map": "/HackBrown2020/static/js/2.c81297ac.chunk.js.map",
     "index.html": "/HackBrown2020/index.html",
-    "precache-manifest.67fde04b105fb9b9242ae059fe56c452.js": "/HackBrown2020/precache-manifest.67fde04b105fb9b9242ae059fe56c452.js",
+    "precache-manifest.982e28c1e16ce131eeb333c55cd79159.js": "/HackBrown2020/precache-manifest.982e28c1e16ce131eeb333c55cd79159.js",
     "service-worker.js": "/HackBrown2020/service-worker.js",
     "static/css/main.55c853ec.chunk.css.map": "/HackBrown2020/static/css/main.55c853ec.chunk.css.map",
     "static/js/2.c81297ac.chunk.js.LICENSE": "/HackBrown2020/static/js/2.c81297ac.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7ac36d18.js",
     "static/js/2.c81297ac.chunk.js",
     "static/css/main.55c853ec.chunk.css",
-    "static/js/main.e5099431.chunk.js"
+    "static/js/main.dad549c8.chunk.js"
   ]
 }
