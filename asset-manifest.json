@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/HackBrown2020/static/css/main.55c853ec.chunk.css",
-    "main.js": "/HackBrown2020/static/js/main.c50470c5.chunk.js",
-    "main.js.map": "/HackBrown2020/static/js/main.c50470c5.chunk.js.map",
+    "main.js": "/HackBrown2020/static/js/main.24e7f8d0.chunk.js",
+    "main.js.map": "/HackBrown2020/static/js/main.24e7f8d0.chunk.js.map",
     "runtime-main.js": "/HackBrown2020/static/js/runtime-main.7ac36d18.js",
     "runtime-main.js.map": "/HackBrown2020/static/js/runtime-main.7ac36d18.js.map",
-    "static/js/2.de763e85.chunk.js": "/HackBrown2020/static/js/2.de763e85.chunk.js",
-    "static/js/2.de763e85.chunk.js.map": "/HackBrown2020/static/js/2.de763e85.chunk.js.map",
+    "static/js/2.c81297ac.chunk.js": "/HackBrown2020/static/js/2.c81297ac.chunk.js",
+    "static/js/2.c81297ac.chunk.js.map": "/HackBrown2020/static/js/2.c81297ac.chunk.js.map",
     "index.html": "/HackBrown2020/index.html",
-    "precache-manifest.32555f28efc44e22ffe181fd4393a7b6.js": "/HackBrown2020/precache-manifest.32555f28efc44e22ffe181fd4393a7b6.js",
+    "precache-manifest.4e9c362a849b4c6b94f61e31805c66c2.js": "/HackBrown2020/precache-manifest.4e9c362a849b4c6b94f61e31805c66c2.js",
     "service-worker.js": "/HackBrown2020/service-worker.js",
     "static/css/main.55c853ec.chunk.css.map": "/HackBrown2020/static/css/main.55c853ec.chunk.css.map",
-    "static/js/2.de763e85.chunk.js.LICENSE": "/HackBrown2020/static/js/2.de763e85.chunk.js.LICENSE",
+    "static/js/2.c81297ac.chunk.js.LICENSE": "/HackBrown2020/static/js/2.c81297ac.chunk.js.LICENSE",
     "static/media/headshot.jpg": "/HackBrown2020/static/media/headshot.62c92389.jpg",
     "static/media/spotify.svg": "/HackBrown2020/static/media/spotify.ce49a946.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7ac36d18.js",
-    "static/js/2.de763e85.chunk.js",
+    "static/js/2.c81297ac.chunk.js",
     "static/css/main.55c853ec.chunk.css",
-    "static/js/main.c50470c5.chunk.js"
+    "static/js/main.24e7f8d0.chunk.js"
   ]
 }
